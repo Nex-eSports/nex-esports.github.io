@@ -1,1 +1,3 @@
-# nex-esports.github.io
+# NEX - ESPORTS
+
+https://nexesports.live/
